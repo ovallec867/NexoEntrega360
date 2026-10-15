@@ -1,0 +1,2 @@
+Comando: python -m unittest discover -s tests -v
+Suite local comprobada anteriormente: 15 tests, OK. Volver a ejecutar en cada clon y consultar GitHub Actions; este archivo no sustituye los logs reales de CI.
